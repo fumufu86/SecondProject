@@ -1,0 +1,22 @@
+{
+  "name": "secondprojectubik",
+  "version": "1.0.0",
+  "description": "mysecondproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fumufu86/SecondProject.git"
+  },
+  "author": "Fumufu86",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fumufu86/SecondProject/issues"
+  },
+  "homepage": "https://github.com/fumufu86/SecondProject#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
